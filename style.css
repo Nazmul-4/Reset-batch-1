@@ -221,7 +221,8 @@
 .current-targets{
     display: flex;
     justify-content:space-between;
-    
+    gap: 20px;
+       
     
 }
 .target-card1{
@@ -278,7 +279,7 @@
     align-items: center;
     border-radius: 12px;
     padding: 20px;
-    width: 50%;
+    width: 100%;    
     max-width: 700px;
     margin: 0 auto;
     text-align: center;
